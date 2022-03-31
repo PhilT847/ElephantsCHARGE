@@ -1,2 +1,2 @@
 # ElephantsCHARGE
-An infinite runner.
+An infinite runner for iOS. Available on the App Store.
